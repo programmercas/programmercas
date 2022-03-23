@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @programmercas
+- 👀 Estou interessado em desenvolver alguns projetos que trabalhem com manipulação de dados.
+- 🌱 Atualmente estou aprendendo sobre a linguaguem de programação Pyhton.
+- 💞️ Gostaria de colaborar sobre projetos em Python que ajudem a trabalhar com dados disponíveis em sites. 
+- 📫 Para entrar em contato comigo, podem enviar um e-mail para carlossoaresbcc@gmail.com.
